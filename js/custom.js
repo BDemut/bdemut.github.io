@@ -114,7 +114,7 @@
                 items: 3,
                 autoplay: false,
                 smartSpeed: 700,
-                autoplayTimeout: 4000,
+                autoplayTimeout: 0,
                 responsive: {
                     0: {
                         items: 1,
