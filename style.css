@@ -23,7 +23,19 @@ html {
 }
 
 .white {
-    color: white
+    color: white;
+}
+
+.white a:visited {
+    color: white;
+}
+
+.white a:link {
+    color: white;
+}
+
+.menulink {
+    margin: 2em;
 }
 
 .center {
@@ -32,13 +44,14 @@ html {
 
 .subtitle {
     font-family: 'Times New Roman', Times, serif;
-    padding: 1.5em;
+    padding-top: 1.5em;
+    padding-bottom: 1.5em;
 }
 
 .bartoszdemut {	
     font-family: 'Times New Roman', Times, serif;
     font-size: 4em;
-    padding-bottom: 2em;
+    padding-bottom: 0.5em;
     align-content: center;
     animation-name:blink;
     animation-duration:1s;
